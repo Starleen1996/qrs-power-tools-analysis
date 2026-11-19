@@ -1,0 +1,56 @@
+ID,ANIO,MES,CIUDAD,INSTITUCION,PAGADOR,SISTEMA,REMISION,TIPO_EQUIPO_PODER,ADVERTENCIA
+1,2026,2026-02,Ciudad_A,Inst_03,Pagador_02,Clavo reconstrucción femoral (línea A),REM_001,Grandes Fragmentos,No
+2,2026,2026-02,Ciudad_A,Inst_14,Pagador_01,Clavo cefalomedular fémur proximal,REM_002,Grandes Fragmentos,No
+3,2026,2026-03,Ciudad_C,Inst_11,Pagador_09,Clavo supracondíleo,REM_003,Grandes Fragmentos,No
+4,2026,2026-03,Ciudad_E,Inst_08,Pagador_06,Placa bloqueada radio distal,REM_004,Pequeños Fragmentos,Sí
+5,2026,2026-03,Ciudad_E,Inst_08,Pagador_06,Placa bloqueada radio distal,REM_004,Pequeños Fragmentos,No
+6,2026,2026-03,Ciudad_A,Inst_01,Pagador_11,Clavo endomedular tibia (línea A),REM_005,Grandes Fragmentos,No
+7,2026,2026-03,Ciudad_A,Inst_01,Pagador_03,Clavo endomedular tibia (línea A),REM_006,Grandes Fragmentos,No
+8,2026,2026-03,Ciudad_A,Inst_01,Pagador_03,Clavo endomedular tibia (línea A),REM_005,Grandes Fragmentos,No
+9,2026,2026-04,Ciudad_D,Inst_09,Pagador_07,Clavo endomedular húmero,REM_007,Grandes Fragmentos,No
+10,2026,2026-04,Ciudad_D,Inst_09,Pagador_07,Clavo endomedular húmero,REM_008,Grandes Fragmentos,No
+11,2026,2026-04,Ciudad_C,Inst_19,Pagador_05,Tornillos canulados 3.5 mm,REM_009,Grandes Fragmentos,No
+12,2026,2026-04,Ciudad_C,Inst_07,Pagador_01,Clavo endomedular tibia (línea A),REM_010,Grandes Fragmentos,No
+13,2026,2026-04,Ciudad_D,Inst_06,Pagador_04,Placa bloqueada radio distal,REM_011,Pequeños Fragmentos,Sí
+14,2026,2026-05,Ciudad_D,Inst_18,Pagador_01,Clavo endomedular tibia (línea A),REM_012,Grandes Fragmentos,No
+15,2026,2026-05,Ciudad_C,Inst_07,Pagador_01,Placa bloqueada radio distal,REM_013,Pequeños Fragmentos,No
+16,2026,2026-05,Ciudad_C,Inst_07,Pagador_01,Placa anatómica clavícula,REM_014,Grandes Fragmentos,No
+17,2026,2026-05,Ciudad_A,Inst_03,Pagador_02,Placa anatómica clavícula,,Grandes Fragmentos,No
+18,2026,2026-06,Ciudad_A,Inst_25,Pagador_18,Clavo endomedular tibia (línea A),REM_015,Grandes Fragmentos,No
+19,2026,2026-06,Ciudad_A,Inst_03,Pagador_02,Clavo cefalomedular fémur proximal,REM_016,Grandes Fragmentos,No
+20,2026,2026-06,Ciudad_E,Inst_08,Pagador_06,Clavo reconstrucción femoral (línea B),,Grandes Fragmentos,Sí
+21,2026,2026-06,Ciudad_E,Inst_23,Pagador_17,Clavo endomedular húmero,REM_017,Grandes Fragmentos,Sí
+22,2026,2026-06,Ciudad_B,Inst_04,Pagador_05,Placas bloqueadas 4.5 mm,REM_018,Grandes Fragmentos,Sí
+23,2026,2026-07,Ciudad_D,Inst_06,Pagador_04,Placa acromioclavicular bloqueada,REM_019,Pequeños Fragmentos,Sí
+24,2026,2026-07,Ciudad_A,Inst_01,Pagador_03,Clavo reconstrucción femoral (línea A),REM_020,Grandes Fragmentos,No
+25,2026,2026-07,Ciudad_E,Inst_24,Pagador_05,Clavo reconstrucción femoral (línea B),REM_021,Grandes Fragmentos,No
+26,2026,2026-07,Ciudad_E,Inst_20,Pagador_14,Placas fisiarias,REM_022,Pequeños Fragmentos,No
+27,2026,2026-07,Ciudad_C,Inst_10,Pagador_02,Alambre de cerclaje,REM_023,Grandes Fragmentos,No
+28,2026,2026-07,Ciudad_D,Inst_15,Pagador_10,Clavo artrodesis de rodilla,REM_024,Grandes Fragmentos,No
+29,2026,2026-07,Ciudad_D,Inst_22,Pagador_16,Clavo artrodesis de rodilla,REM_025,Grandes Fragmentos,No
+30,2026,2026-07,Ciudad_C,Inst_12,Pagador_12,Clavo cefalomedular fémur proximal,REM_026,Grandes Fragmentos,No
+31,2026,2026-08,Ciudad_A,Inst_01,Pagador_03,Minifragmentos mano,,Pequeños Fragmentos,No
+32,2026,2026-08,Ciudad_A,Inst_16,Pagador_08,Clavo cefalomedular fémur proximal,REM_027,Grandes Fragmentos,Sí
+33,2026,2026-08,Ciudad_D,Inst_06,Pagador_04,Placa bloqueada tibia proximal,REM_028,Grandes Fragmentos,No
+34,2026,2026-08,Ciudad_B,Inst_02,Pagador_08,Clavo cefalomedular fémur proximal,REM_029,Grandes Fragmentos,No
+35,2026,2026-09,Ciudad_A,Inst_03,Pagador_01,Placa bloqueada radio distal,REM_030,Pequeños Fragmentos,No
+36,2026,2026-09,Ciudad_B,Inst_05,Pagador_01,Placas bloqueadas 4.5 mm,REM_031,Pequeños Fragmentos,No
+37,2026,2026-09,Ciudad_B,Inst_02,Pagador_02,Clavo endomedular húmero,REM_032,Grandes Fragmentos,No
+38,2026,2026-09,Ciudad_A,Inst_03,Pagador_01,Placas bloqueadas 4.5 mm,REM_033,Grandes Fragmentos,No
+39,2026,2026-10,Ciudad_A,Inst_21,Pagador_01,Clavo endomedular tibia (línea A),REM_034,Grandes Fragmentos,Sí
+40,2026,2026-10,Ciudad_B,Inst_04,Pagador_01,Placa bloqueada tibia proximal,REM_035,Pequeños Fragmentos,No
+41,2026,2026-10,Ciudad_B,Inst_04,Pagador_01,Placas convencionales 4.5 mm,REM_036,Pequeños Fragmentos,Sí
+42,2026,2026-10,Ciudad_B,Inst_05,Pagador_01,Clavo cefalomedular fémur proximal,REM_037,Grandes Fragmentos,No
+43,2026,2026-10,Ciudad_B,Inst_02,Pagador_02,Clavo cefalomedular fémur proximal,REM_038,Grandes Fragmentos,No
+44,2026,2026-10,Ciudad_A,Inst_01,Pagador_03,Placa bloqueada fémur distal,REM_039,Grandes Fragmentos,Sí
+45,2026,2026-10,Ciudad_B,Inst_02,Pagador_02,Placas bloqueadas 4.5 mm,REM_040,Grandes Fragmentos,No
+46,2026,2026-10,Ciudad_B,Inst_04,Pagador_01,Clavo cefalomedular fémur proximal,REM_041,Grandes Fragmentos,Sí
+47,2026,2026-10,Ciudad_A,Inst_03,Pagador_02,Placa bloqueada húmero proximal,REM_042,Pequeños Fragmentos,No
+48,2026,2026-10,Ciudad_A,Inst_01,Pagador_03,Clavo endomedular tibia (línea B),REM_043,Grandes Fragmentos,No
+49,2026,2026-10,Ciudad_B,Inst_05,Pagador_02,Placas bloqueadas 3.5 mm,REM_044,Grandes Fragmentos,Sí
+50,2026,2026-10,Ciudad_C,Inst_10,Pagador_15,Placa bloqueada húmero proximal,REM_045,Pequeños Fragmentos,Sí
+51,2026,2026-10,Ciudad_B,Inst_02,Pagador_02,Clavo cefalomedular fémur proximal,REM_046,Grandes Fragmentos,No
+52,2026,2026-10,Ciudad_A,Inst_01,Pagador_03,Clavo cefalomedular fémur proximal,REM_047,Grandes Fragmentos,Sí
+53,2026,2026-10,Ciudad_A,Inst_13,Pagador_01,Clavo cefalomedular fémur proximal,REM_048,Grandes Fragmentos,Sí
+54,2026,2026-10,Ciudad_C,Inst_17,Pagador_13,Placa bloqueada radio distal,REM_049,Pequeños Fragmentos,No
+55,2026,2026-10,Ciudad_B,Inst_02,Pagador_02,Clavo cefalomedular fémur proximal,REM_050,Grandes Fragmentos,No
