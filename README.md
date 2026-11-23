@@ -90,18 +90,16 @@ Formulé **9 preguntas de negocio** y elegí la visualización adecuada para cad
 
 ---
 
-## 5. Estructura del repositorio
+## 5. Archivos del repositorio
 
-```
-├── README.md
-├── data/
-│   └── dataset_anonimizado.csv        # 55 requerimientos, datos codificados
-├── notebook/
-│   └── analisis_equipos_poder.ipynb   # Notebook ejecutado, con resultados y gráficos
-└── graficos/                          # PNG de las 9 visualizaciones
-```
+| Archivo | Contenido |
+|---|---|
+| `README.md` | Descripción del proyecto |
+| `dataset_anonimizado.csv` | 55 requerimientos con datos codificados |
+| `analisis_equipos_poder.ipynb` | Notebook ejecutado, con resultados y gráficos |
+| `01_…png` a `09_…png` | Las 9 visualizaciones del análisis |
 
-### Diccionario de datos (`data/dataset_anonimizado.csv`)
+### Diccionario de datos (`dataset_anonimizado.csv`)
 
 | Columna | Descripción |
 |---|---|
@@ -116,9 +114,9 @@ Formulé **9 preguntas de negocio** y elegí la visualización adecuada para cad
 | `ADVERTENCIA` | Sí / No: el reporte advierte cancelar la cirugía, no operar o pedir el material a otro proveedor |
 
 ### Cómo ejecutarlo
-- **Local:** `pip install pandas matplotlib seaborn jupyter` y abrir `notebook/analisis_equipos_poder.ipynb`.
-- **Google Colab:** abrir el notebook desde GitHub (*Archivo → Abrir cuaderno → GitHub*) y, en la celda 2, reemplazar `TU-USUARIO/TU-REPOSITORIO` en `URL_GITHUB`, o subir el CSV cuando se solicite.
+- **Local:** `pip install pandas matplotlib seaborn jupyter`, dejar `dataset_anonimizado.csv` en la misma carpeta y abrir `analisis_equipos_poder.ipynb`.
+- **Google Colab:** abrir el notebook desde GitHub (*Archivo → Abrir cuaderno → GitHub*) y ejecutar todas las celdas. Si el repositorio es público, el CSV se descarga solo; si es privado, súbelo cuando se solicite.
 
 ---
 
-*Autor: Starleen Gaviria Medina · [LinkedIn](https://www.linkedin.com/in/starleen-gaviria-sig/) · [GitHub](https://github.com/Starleen1996)*
+*Autora: Starleen Gaviria Medina · [LinkedIn](https://www.linkedin.com/in/starleen-gaviria-analytics/) · [GitHub](https://github.com/Starleen1996)*
