@@ -235,4 +235,4 @@ El análisis convierte una queja recurrente en un **caso de negocio cuantificado
 
 ---
 
-*Autora: Starleen Gaviria Medina · [LinkedIn](https://www.linkedin.com/in/starleen-gaviria-analytics/) · [GitHub](https://github.com/Starleen1996)*
+*Autor: Starleen Gaviria Medina · [LinkedIn](https://www.linkedin.com/in/starleen-gaviria-analytics/) · [GitHub](https://github.com/Starleen1996)*
