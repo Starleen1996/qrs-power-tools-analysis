@@ -119,4 +119,4 @@ Formulé **9 preguntas de negocio** y elegí la visualización adecuada para cad
 
 ---
 
-*Autora: Starleen Gaviria Medina · [LinkedIn](https://www.linkedin.com/in/starleen-gaviria-analytics/) · [GitHub](https://github.com/Starleen1996)*
+*Autor: Starleen Gaviria Medina · [LinkedIn](https://www.linkedin.com/in/starleen-gaviria-analytics/) · [GitHub](https://github.com/Starleen1996)*
